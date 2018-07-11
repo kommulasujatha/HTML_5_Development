@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Apollo Hospital</title>
+    <link rel="icon" href="img/apollo.jpg">
+    <style>
+        body{
+            font-family: "Comic Sans MS", sans-serif;
+            margin: 0;
+        }
+        h1{
+            text-align: center;
+            color: green;
+        }
+        h2{
+            background-color: forestgreen;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        p , td{
+            text-align: center;
+        }
+        img , iframe {
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- The Great India Website -->
+
+<!-- Main Navigation -->
+<div align="center">
+    <a href="#Home">Home</a> |
+    <a href="#Dr R Santosh-Endocrinologist">Dr R Santosh-Endocrinologist</a> |
+    <a href="#Dr Sivaranjani-Pediatrician">Dr Sivaranjani-Pediatrician</a> |
+    <a href="#Dr Vemula Sreekanth-Neurologist">Dr Vemula Sreekanth-Neurologist</a> |
+    <a href="#Apollo Images">Apollo Images</a>
+
+</div>
+
+<!-- Apollo doctors -->
+<div id="Home">
+    <h1>Apollo Hospital</h1>
+    <h2>Apollo Doctors</h2>
+    <p>Making available one of the best paediatric services is Magna code in Jubilee Hills who has been practising for many years. Offering an exemplary care and medical help to infants, children and adolescents, this renowned medical practitioner has earned a wide recognition over the years. Providing a distinguished service since 2012, this acclaimed medical specialist has turned out to be the first choice for paediatric care for the residents in the neighbourhood. This doctor's extraordinary medical service has fetched a rating of 4.2 out of a total of of 200+ votes. The chamber holds a strategic location in Jubilee Hills with the exact address being Plot No.21, Type C, House No.8-2-293/82 on Road No 9 right Road No 9 due to which inhabitants can find out the clinic without hassle. The presence of dense roads and an equally good transport facility in the locality enable the visitors to get their way back from the doctor's chamber.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="img/Dr%20_R_%20Santosh.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/Dr%20Sivaranjani%20santosh.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/dr.v-sreekanth.jpg" width="300" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>Dr R Santosh-Endocrinologist</td>
+            <td>Dr Sivaranjani-Pediatrician</td>
+            <td>Dr Vemula Sreekanth-Neurologist</td>
+
+        </tr>
+    </table>
+</div>
+
+<!-- Dr R Santosh -->
+<div id="Dr R Santosh-Endocrinologist">
+    <h2>Dr R Santosh sir-Endocrinologist</h2>
+    <p>Did His Schooling And Junior College In The Prestigious St Vincent’s High School Pune, Mbbs: Bjmc Pune, Md Internal Medicine: Jipmer Pondicherry, Dm Endocrinology: Pgi Chandigarh.
+        Worked As A Consultant Endocrinologist In Apollo Hospitals In Jubilee Hills, Hyderabad For 3 Years. He Quit His Job To Lay Focus More On Endocrinology Along With Diabetes Care.
+        He Is The Founder Director Of The Magna Clinics For Obesity Diabetes And Endocrinology, And Chief Endocrinologist In The Hyderabad Units.
+        Presently He Is Available For Consultation As Follows:
+        MagnaCODE @ Film Nagar, Hyderabad Each Day Morning And Evening Except Wednesdays And Sundays
+        Align Ddc MagnaCODE @ Gachibowli Between 9 To 11 Am On Tuesdays And Thursdays
+        Apple MagnaCODE @ Apple Hospitals, Tanuku, Ap On The Second And Fourth Wednesdays
+        Amrutha MagnaCODE @ Kurnool On The Third Wednesday.
+        He Is A Visiting Endocrinologist In 2 Of The Leading Maternity Hospitals In Hyderabad, I.e Fernandez Hospitals And The Birth Place. He Has 25 Publications To His Credit, Including 4 Text Book Chapters. He Has Addressed (as On 20/11/2013) 106 Scientific Forums After Becoming A Professional, Which Includes International And National Endocrinology Conferences. Even As A Professional, He Maintains Key Interest In Acquiring And Spreading The Latest Advances In The Field Of Diabetes And Endocrinology.
+        He Is Presently Leading The Growth Clinic And The Basal Insulin Initiative In MagnaCODE. [shrink]</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/yG5Mx8Sl7wo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+            <td>
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXuCLo7lT6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td>Dr R Santosh-Endocrinologist</td>
+            <td>Dr R Santosh-Endocrinologist</td>
+        </tr>
+    </table>
+</div>
+
+<!-- Dr Sivaranjani -->
+<div id="Dr Sivaranjani-Pediatrician">
+    <h2>Dr Sivaranjani-Pediatrician</h2>
+    <p>Dr. Sivaranjani  is a Pediatrician in Sri Aurobindo Ashram, Puducherry and has an experience of 14 years in this field. Dr. Sivaranjani Santosh practices at Dr. Smilez Group of Dental Centres in Sri Aurobindo Ashram, Puducherry. She completed MBBS from Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry and MD - Pediatrics from Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/sDWvtXtQxYg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+            <td>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/5-4Qmf_01uA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+
+        </tr>
+        <tr>
+            <td>Dr Sivaranjani-Pediatrician</td>
+            <td>Dr Sivaranjani-Pediatrician</td>
+
+        </tr>
+    </table>
+</div>
+<!-- Dr Vemula Sreekanth-->
+<div id="Dr Vemula Sreekanth-Neurologist">
+    <h2>Dr Vemula Sreekanth-Neurologist</h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi asperiores autem beatae culpa, cumque, doloribus eum ex expedita fugit ipsam maiores modi molestiae, mollitia neque perferendis praesentium vero? Accusamus, eius?</p>
+<table width="100%">
+    <tr>
+        <td>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3T5gKJv4k00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </td>
+        <td>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/EO5b9n1hhVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </td>
+    </tr>
+<tr>
+    <td>Dr Vemula Sreekanth</td>
+    <td>Dr Vemula Sreekanth</td>
+</tr>
+</table>
+</div>
+
+<!-- MAGNA CODE IMAGES -->
+<div id="Apollo Images">
+    <h2>Apollo Images</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusantium, aliquam amet assumenda aut autem debitis delectus eaque eum facere incidunt magnam molestias mollitia odit, quam quo rerum suscipit vel veniam voluptatem? Id inventore iste minima quod rem repellat tenetur?</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="img/apollo.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/apollo-home-hyderabad.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/Dr%20_R_%20Santosh.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/sivaranjani.jpg" width="300" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>Apollo symbol</td>
+            <td>Apollo home hyderabad</td>
+            <td>Dr R Santosh</td>
+            <td>Dr Sivaranjani</td>
+        </tr>
+    </table>
+</div>
+
+
+<!-- Main Footer -->
+<div id="main-footer">
+    <h2>Copyright &copy; 2018 ,Apollo</h2>
+    <p>All Rights Reserved</p>
+    <p>Developed & Maintained by Sujatha</p>
+</div>
+
+<!-- Main Navigation -->
+<div align="center">
+    <a href="#Home">Home</a> |
+    <a href="#Dr R Santosh-Endocrinologist">Dr R Santosh-Endocrinologist</a> |
+    <a href="#Dr Sivaranjani-Pediatrician">Dr Sivaranjani-Pediatrician</a> |
+    <a href="#Dr Vemula Sreekanth-Neurologist">Dr Vemula Sreekanth-Neurologist</a> |
+    <a href="#Apollo Images">Apollo Images</a>
+</div>
+
+<br> <br> <br>
+</body>
+</html>

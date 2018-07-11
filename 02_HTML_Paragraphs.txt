@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Paragraphs</title>
+</head>
+<body>
+
+ <!-- HTML Paragraphs -->
+<h2>HTML</h2>
+<P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At deleniti facere fuga reprehenderit tempora. Dolore praesentium repudiandae sapiente. Ab adipisci autem corporis doloremque eligendi fugit inventore laudantium, modi nam necessitatibus non praesentium quibusdam rem sint tempore totam vitae! Qui, voluptas.</p>
+
+
+<h2>CSS</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam dolores eligendi illum ipsum voluptates! Accusamus animi ea eius facere, facilis illum incidunt laborum modi, natus necessitatibus odio optio provident quia quibusdam quisquam quod unde veniam voluptate voluptatem voluptates. Harum, quasi.</p>
+
+
+<h2>JAVA SCRIPT</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet culpa excepturi neque non quae recusandae sequi sit ut velit. Culpa debitis mollitia possimus soluta velit? Aperiam exercitationem explicabo fuga id magni quisquam rem vero. Corporis natus nostrum quod rerum?</p>
+
+</body>
+</html>

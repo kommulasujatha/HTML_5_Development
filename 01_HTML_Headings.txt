@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>HTML Headings</title>
+    </head>
+<body>
+
+<!-- HTML Headings (h1 - h6)-->
+    <h1>Mahesh</h1>
+    <h2>Shashank</h2>
+    <h3>Sujatha</h3>
+    <h4>Film nagar</h4>
+    <h5>Jubilee Hills</h5>
+    <h6>Hyderabad</h6>
+
+</body>
+</html>
